@@ -6,7 +6,9 @@
 </p>
 
 <details open>
-<summary id="english"><strong>English</strong></summary>
+<summary><strong>English</strong></summary>
+
+## English
 
 ## Purpose
 
@@ -51,7 +53,9 @@ skills/
 </details>
 
 <details>
-<summary id="中文"><strong>中文</strong></summary>
+<summary><strong>中文</strong></summary>
+
+## 中文
 
 ## 用途
 
