@@ -1,4 +1,4 @@
-# GitHub Skill Collection
+# Azhi Skill Collection
 
 <p align="center">
   <a href="#english"><img alt="Read in English" src="https://img.shields.io/badge/English-Read-blue"></a>
